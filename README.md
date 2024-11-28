@@ -1,7 +1,9 @@
 # Credit_Card_Financial_Dashboard
-Power Bi Dashboard
+
+## Power Bi Dashboard
+
+### Project Overview
+#### credit card chrun analysis
 
 
 
-
-![Uploading Screenshot 2024-11-26 134830.png…]()
